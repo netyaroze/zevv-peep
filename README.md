@@ -1,6 +1,6 @@
 # zevv-peep
-The original AUR package for zevv-peep goes to a non-existent URL. This can be maintained here.
-zevv-peep - an alternative to neep-alt for higher resolution displays.
+The original AUR package for zevv-peep goes to a non-existent URL. 
+This can be maintained here.
 
 Original Source URL: http://zevv.nl/play/code/zevv-peep/
 
